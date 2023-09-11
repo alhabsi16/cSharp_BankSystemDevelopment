@@ -1,0 +1,15 @@
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\obj\Debug\net6.0\BankSystemDevelopment.csproj.AssemblyReference.cache
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\obj\Debug\net6.0\BankSystemDevelopment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\obj\Debug\net6.0\BankSystemDevelopment.AssemblyInfoInputs.cache
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\obj\Debug\net6.0\BankSystemDevelopment.AssemblyInfo.cs
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\obj\Debug\net6.0\BankSystemDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\bin\Debug\net6.0\BankSystemDevelopment.exe
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\bin\Debug\net6.0\BankSystemDevelopment.deps.json
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\bin\Debug\net6.0\BankSystemDevelopment.runtimeconfig.json
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\bin\Debug\net6.0\BankSystemDevelopment.dll
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\bin\Debug\net6.0\BankSystemDevelopment.pdb
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\obj\Debug\net6.0\BankSystemDevelopment.dll
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\obj\Debug\net6.0\refint\BankSystemDevelopment.dll
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\obj\Debug\net6.0\BankSystemDevelopment.pdb
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\obj\Debug\net6.0\BankSystemDevelopment.genruntimeconfig.cache
+C:\Users\TRA\source\repos\BankSystemDevelopment\BankSystemDevelopment\obj\Debug\net6.0\ref\BankSystemDevelopment.dll
